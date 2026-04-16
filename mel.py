@@ -8,3 +8,5 @@ while True:
     tengah = len(peserta) // 2
 tim_a = peserta[:tengah]
 tim_b = peserta[tengah:]
+print(f"Tim Biru: {tim_a}")
+print(f"Tim Merah: {tim_b}")
